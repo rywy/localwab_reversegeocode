@@ -18,7 +18,7 @@
       "useLogo": false
     }
   },
-  "portalUrl": "http://ryno.maps.arcgis.com",
+  "portalUrl": "https://ryno.maps.arcgis.com",
   "appId": "WCbdzHUtOUdyi7V1",
   "authorizedCrossOriginDomains": [],
   "title": "Reverse Geocode Demo",
