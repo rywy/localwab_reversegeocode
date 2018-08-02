@@ -18,13 +18,13 @@
       "useLogo": false
     }
   },
-  "portalUrl": "https://ryno.maps.arcgis.com",
-  "appId": "WCbdzHUtOUdyi7V1",
+  "portalUrl": "https://esri-chicago.maps.arcgis.com",
+  "appId": "",
   "authorizedCrossOriginDomains": [],
   "title": "Reverse Geocode Demo",
   "subtitle": "with Web AppBuilder for ArcGIS",
   "keepAppState": true,
-  "logo": "https://ryno.maps.arcgis.com/sharing/rest/content/items/a740aa4781534871a80025f263c3631a/data",
+  "logo": "https://esri-chicago.maps.arcgis.com/sharing/rest/content/items/a740aa4781534871a80025f263c3631a/data",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
   "links": [],
   "widgetOnScreen": {
